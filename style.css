@@ -503,6 +503,11 @@ button {
     font-size: 30px!important;
 }
 
+.icon-md:hover{
+    text-shadow: 1px 1px 10px #FFFFFF;
+    transition: all .3s ease-in-out;
+}
+
 .icon-lg {
     font-size: 60px!important;
 }
