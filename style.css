@@ -468,7 +468,7 @@ nav .caret {
 }
 
 .btn-style:hover{
-    box-shadow: 1px 1px 10px white;
+    box-shadow: 1px 1px 10px #000000;
     text-shadow: 1px 1px 2px white;
 }
 
@@ -834,13 +834,13 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #c27956;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+   box-shadow: 1px 1px 10px #000000;
+   text-shadow: 1px 1px 5px #FFFFFF;
 }
 
 .ltc-white {
